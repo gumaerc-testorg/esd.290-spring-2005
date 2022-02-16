@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-290-special-topics-in-supply-chain-management-spring-2005/6e5a1b86181858f4a4d847d220830e15_djrhQK-dBx0.vtt
+file: /media/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/6e5a1b86181858f4a4d847d220830e15_djrhQK-dBx0.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 6e5a1b86-1818-58f4-a4d8-47d220830e15

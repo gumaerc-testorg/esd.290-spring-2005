@@ -4,8 +4,13 @@ description: Ths resource contains information on IT839 strategy, R&D thrust tow
   u-Korea, public USN concept public USN concept, USN applications, USN technology
   tree, roadmap for USN R&D, auto-ID lab Korea, theme and members, research focus
   and on-going research.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-290-special-topics-in-supply-chain-management-spring-2005/68695668ffbc588e764d91a8bc09c5ef_sangguglee.pdf
+file: /media/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/68695668ffbc588e764d91a8bc09c5ef_sangguglee.pdf
 file_type: application/pdf
+learning_resource_types:
+- Videos
+ocw_type: OCWFile
+parent_title: Conference Videos
+parent_type: CourseSection
 resourcetype: Document
 title: sangguglee.pdf
 uid: 68695668-ffbc-588e-764d-91a8bc09c5ef

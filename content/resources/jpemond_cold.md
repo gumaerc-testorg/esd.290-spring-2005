@@ -2,8 +2,13 @@
 content_type: resource
 description: This resuorce contains information on CFDR, food industry ans pharmaceutical
   industry.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-290-special-topics-in-supply-chain-management-spring-2005/b3d08bc255a1718fcbb49e69ed8e36cb_jpemond_cold.pdf
+file: /media/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/b3d08bc255a1718fcbb49e69ed8e36cb_jpemond_cold.pdf
 file_type: application/pdf
+learning_resource_types:
+- Videos
+ocw_type: OCWFile
+parent_title: Conference Videos
+parent_type: CourseSection
 resourcetype: Document
 title: jpemond_cold.pdf
 uid: b3d08bc2-55a1-718f-cbb4-9e69ed8e36cb

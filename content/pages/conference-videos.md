@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Videos
+ocw_type: CourseSection
 title: Conference Videos
 uid: 16c26e40-a092-2015-181e-34a102b27256
 ---
