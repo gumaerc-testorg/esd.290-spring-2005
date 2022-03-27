@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: petercole.pdf
 uid: 1c39dd0c-f2cb-fbd3-e5a6-b446e4e64af6

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'The Internet of Things: A Quantum Leap Forward'
 uid: 43ec9c0b-94eb-4231-b815-53d5f5891b31
 video_files:

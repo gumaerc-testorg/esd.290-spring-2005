@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: allenleves_rfid.pdf
 uid: c8138d62-7106-0677-1147-c0512d40c08c

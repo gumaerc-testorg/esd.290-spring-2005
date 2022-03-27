@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: berndscholzreite.pdf
 uid: b42f0626-6f8b-3087-55c0-631ba51b1a62

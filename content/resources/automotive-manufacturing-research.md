@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Automotive Manufacturing Research Roadmap for RFID
 uid: a87007ea-5147-40a8-3d62-fd77346d4e3a
 video_files:

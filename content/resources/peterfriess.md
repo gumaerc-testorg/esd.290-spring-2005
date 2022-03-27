@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: peterfriess.pdf
 uid: b771c947-934d-595e-a496-982fa7741bd3

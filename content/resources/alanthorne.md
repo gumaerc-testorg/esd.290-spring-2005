@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: alanthorne.pdf
 uid: 2b7db569-fb68-5a5a-d864-ed2080017484

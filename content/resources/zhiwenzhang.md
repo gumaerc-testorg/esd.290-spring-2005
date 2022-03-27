@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: zhiwenzhang.pdf
 uid: 8fc1ddff-2eb2-75ca-fd5d-3c13514e5584

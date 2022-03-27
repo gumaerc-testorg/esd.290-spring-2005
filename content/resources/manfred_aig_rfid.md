@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: manfred_aig_rfid.pdf
 uid: 7b9cd42f-c2d1-cce6-d3c6-a11e1fe08de8

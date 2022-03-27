@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: R&D Opportunities and the Future of RFID Frequencies
 uid: 906bef46-e0c1-9b29-8783-1ef7d868c3e6
 video_files:

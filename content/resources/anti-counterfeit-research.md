@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Anti-Counterfeit Research / Time and Temperature Pedigree
 uid: 4d12e04e-82b1-722f-adfb-164aee8e1eda
 video_files:

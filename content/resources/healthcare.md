@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Healthcare and Life Sciences Requirements for RFID
 uid: 4a96bf92-9bdf-e01c-b0a2-62ab8fdd73ce
 video_files:

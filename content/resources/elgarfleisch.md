@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: elgarfleisch.pdf
 uid: 77b891bc-e9ff-9ae3-dc8d-accf2f5a80cb

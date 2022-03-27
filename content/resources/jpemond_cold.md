@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
+parent_uid: 16c26e40-a092-2015-181e-34a102b27256
 resourcetype: Document
 title: jpemond_cold.pdf
 uid: b3d08bc2-55a1-718f-cbb4-9e69ed8e36cb

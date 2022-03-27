@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Aero-Astro Technology and Research \u2011 Active RFID Standardization Pathway"
 uid: fc6a90db-9203-1b4c-0481-8073ea14eeb4
 video_files:

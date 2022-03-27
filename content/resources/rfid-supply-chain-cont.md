@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: RFID R&D Opportunities and the Supply Chain (cont.)
 uid: 798bb713-4baf-0a32-0bfa-f1e9ce3c2a9b
 video_files:

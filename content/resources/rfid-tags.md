@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: R&D Opportunities and the Future of RFID Tags
 uid: be453744-45a9-6a51-d3bf-c1b5b5e6bb0d
 video_files:
