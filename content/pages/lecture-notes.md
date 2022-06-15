@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section gives information on the sessions, topics and
+  the lectures corresponding to them.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -40,7 +42,7 @@ Course Introduction. An Auto-ID Primer (I)
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Course Introduction. An Auto-ID Primer (II) ([PDF ‑ 1.7 MB]({{< baseurl >}}/resources/lect1_2))
+Course Introduction. An Auto-ID Primer (II) ({{% resource_link 6f440382-c734-817a-4ba1-77a90c8425e6 "PDF ‑ 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ Valuation of RFID Investments
 11
 {{< tdclose >}}
 {{< tdopen >}}
-RFID and the Future of the Supply Chain: Toward the 5 Cent Tag ([PDF]({{< baseurl >}}/resources/lect11))
+RFID and the Future of the Supply Chain: Toward the 5 Cent Tag ({{% resource_link 761a1aed-0b26-2cde-5d22-e8d07b3ac192 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +150,7 @@ RFID and the Future of the Supply Chain: Toward the 5 Cent Tag ([PDF]({{< baseur
 12
 {{< tdclose >}}
 {{< tdopen >}}
-RFID and Future Business Models: Manufacturing Cost Simulations for Low Cost RFID Systems ([PDF]({{< baseurl >}}/resources/lect12))
+RFID and Future Business Models: Manufacturing Cost Simulations for Low Cost RFID Systems ({{% resource_link e8b0e1e1-9916-8470-e708-0a4bec6592e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

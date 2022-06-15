@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section gives the lectures and assignments corresponding
+  to them.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ ASSIGNMENTS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 1 ([PDF]({{< baseurl >}}/resources/assn1))
+Assignment 1 ({{% resource_link c9a64903-5f03-d09f-63ed-cbdae44f8c16 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ Assignment 1 ([PDF]({{< baseurl >}}/resources/assn1))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 2 ([PDF]({{< baseurl >}}/resources/assn2))
+Assignment 2 ({{% resource_link 3bcc89bc-68a9-f0ec-f68d-778f960f8851 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Assignment 2 ([PDF]({{< baseurl >}}/resources/assn2))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 3 ([PDF]({{< baseurl >}}/resources/assn3))
+Assignment 3 ({{% resource_link 451caa88-4805-1b4c-2c88-c873ec68e5af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Assignment 3 ([PDF]({{< baseurl >}}/resources/assn3))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Assignments 4 and 6 ([PDF]({{< baseurl >}}/resources/assn4_6))
+Assignments 4 and 6 ({{% resource_link 8e936138-ffb8-eb53-e253-0e6caef1ebed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +65,7 @@ Assignments 4 and 6 ([PDF]({{< baseurl >}}/resources/assn4_6))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Assignment 5 ([PDF]({{< baseurl >}}/resources/assn5))
+Assignment 5 ({{% resource_link c7dd2e93-0c31-8766-9bbc-438405d6c1f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
