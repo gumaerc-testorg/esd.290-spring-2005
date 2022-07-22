@@ -5,6 +5,7 @@ file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/623
 file_type: application/pdf
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: billhardgrave.pdf
 uid: 623e8592-7432-4139-a8aa-8dfad41f9910
 ---
 This resource contains information on research, teaching and service.
-

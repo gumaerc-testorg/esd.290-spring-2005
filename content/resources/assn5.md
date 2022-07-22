@@ -7,6 +7,7 @@ file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/c7d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assn5.pdf
 uid: c7dd2e93-0c31-8766-9bbc-438405d6c1f8
 ---
 This resource contains problems on steps required to do an analysis of the process and costs of a purchasing experience, creating RFID scenario of choice that improves the purchasing experience measured, tag price point and cost model.
-

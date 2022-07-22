@@ -6,6 +6,7 @@ file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/b77
 file_type: application/pdf
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: peterfriess.pdf
 uid: b771c947-934d-595e-a496-982fa7741bd3
 ---
 This resource contains information on international collaboration, European research on RFID and topics of RFID discussion in Europe.
-

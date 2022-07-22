@@ -5,6 +5,7 @@ file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/9d9
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: EPCRFIDCalculatorMarch2005.xls
 uid: 9d9435aa-809f-7c81-e6e8-fee261067499
 ---
 This resource helps in calculating the economics of RFID systems.
-

@@ -4,6 +4,7 @@ description: ''
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/785ede87cf598e78af528e5a8e1550a3_pqdN-zGWkfY.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

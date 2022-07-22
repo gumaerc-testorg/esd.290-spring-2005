@@ -6,6 +6,7 @@ file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/442
 file_type: application/pdf
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Conference Videos
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: jinheeyoon.pdf
 uid: 442ff6f3-7308-38e7-a1bc-627da6c3bd04
 ---
 This resource contains information on wireless data revenue, convergence trend, strategy and applications.
-

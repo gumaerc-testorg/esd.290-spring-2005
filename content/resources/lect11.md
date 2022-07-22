@@ -6,6 +6,7 @@ file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/761
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect11.pdf
 uid: 761a1aed-0b26-2cde-5d22-e8d07b3ac192
 ---
 This resource contains information on the anatomy of an RF tag, the system, IC manufacturing, low-cost RFID, and scaling issues.
-

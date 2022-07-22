@@ -6,6 +6,7 @@ file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/3bc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn2.pdf
 uid: 3bcc89bc-68a9-f0ec-f68d-778f960f8851
 ---
 This resource contains problems on how to create a low cost super-tag and structure capex (cost) calculations.
-

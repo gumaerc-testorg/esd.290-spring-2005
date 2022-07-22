@@ -4,6 +4,7 @@ description: ''
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/918b3b86d4ee5169c19e1c2b051f1cf5_wvLUlPCbc5s.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

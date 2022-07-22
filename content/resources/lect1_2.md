@@ -8,6 +8,7 @@ file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/6f4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lect1_2.pdf
 uid: 6f440382-c734-817a-4ba1-77a90c8425e6
 ---
 This resource contains information on RFID system, low cost RFID, cheap protocol, testing, slicing and dicing, antenna, assembly, conversion, architecture, inference, interoperability, layers, modulation, anti-collusion, kinematics, vibrating surfaces, hopping, and adhesion.
-
