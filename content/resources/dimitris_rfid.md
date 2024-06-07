@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on closed-loop PLM, enabling technologies,
   product identification technologies, PLM modeling, demonstrators.
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/339e0898acb4ff909927a57082bd7fd7_dimitris_rfid.pdf
+file_size: 1737141
 file_type: application/pdf
 learning_resource_types:
 - Videos

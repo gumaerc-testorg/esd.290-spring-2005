@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource helps in calculating the economics of RFID systems.
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/9d9435aa809f7c81e6e8fee261067499_EPCRFIDCalculatorMarch2005.xls
+file_size: 566784
 file_type: application/msword
 learning_resource_types:
 - Tools

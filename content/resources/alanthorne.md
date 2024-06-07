@@ -4,6 +4,7 @@ description: This resource contains information on development of industrial res
   consortium, research themes and outputs and industries requirements and perspective(boeing,
   programme sponsor).
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/2b7db569fb685a5ad864ed2080017484_alanthorne.pdf
+file_size: 236811
 file_type: application/pdf
 learning_resource_types:
 - Videos

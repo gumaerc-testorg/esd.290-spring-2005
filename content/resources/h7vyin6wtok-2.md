@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/4cd98686c2de57b8a7365181332732ed_H7vyIn6WtOk.vtt
+file_size: 9281
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

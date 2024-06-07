@@ -5,6 +5,7 @@ description: Ths resource contains information on IT839 strategy, R&D thrust tow
   tree, roadmap for USN R&D, auto-ID lab Korea, theme and members, research focus
   and on-going research.
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/68695668ffbc588e764d91a8bc09c5ef_sangguglee.pdf
+file_size: 1958409
 file_type: application/pdf
 learning_resource_types:
 - Videos
