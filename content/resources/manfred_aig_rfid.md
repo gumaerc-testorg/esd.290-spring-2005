@@ -5,6 +5,7 @@ description: This resource contains information on motivation for standardized s
   vs. symmetric encryption, results so far (developed at IAIK) and future research
   topics.
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/7b9cd42fc2d1cce6d3c6a11e1fe08de8_manfred_aig_rfid.pdf
+file_size: 415176
 file_type: application/pdf
 learning_resource_types:
 - Videos
