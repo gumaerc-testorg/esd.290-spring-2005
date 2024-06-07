@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on wireless data revenue, convergence
   trend, strategy and applications.
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/442ff6f3730838e7a1bc627da6c3bd04_jinheeyoon.pdf
+file_size: 2268325
 file_type: application/pdf
 learning_resource_types:
 - Videos

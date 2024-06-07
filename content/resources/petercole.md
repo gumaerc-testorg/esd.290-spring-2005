@@ -4,6 +4,7 @@ description: This resource contains information on RFID regulations, antenna iss
   propagation studies, protocol issues, higher functionality tags, signalling waveform
   design and security and authentication.
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/1c39dd0cf2cbfbd3e5a6b446e4e64af6_petercole.pdf
+file_size: 766403
 file_type: application/pdf
 learning_resource_types:
 - Videos

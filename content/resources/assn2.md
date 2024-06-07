@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on how to create a low cost super-tag
   and structure capex (cost) calculations.
 file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/3bcc89bc68a9f0ecf68d778f960f8851_assn2.pdf
+file_size: 16092
 file_type: application/pdf
 learning_resource_types:
 - Assignments
