@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on P&G and Gillette, collaboration
   gains, venus disposables promotion pilot, Oral-B pulsar launch, EPC advantaged strategy.
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/02d81fd24e9358f0949c187247429642_dickcantwellrfid.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/02d81fd24e9358f0949c187247429642_dickcantwellrfid.pdf
 file_size: 726795
 file_type: application/pdf
 learning_resource_types:

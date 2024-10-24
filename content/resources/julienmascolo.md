@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on closed-loop PLM for EOL of vehicles-
   context, constraints and scenario.
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/276327bc03bd5f40f07982729be48778_julienmascolo.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/276327bc03bd5f40f07982729be48778_julienmascolo.pdf
 file_size: 704905
 file_type: application/pdf
 learning_resource_types:

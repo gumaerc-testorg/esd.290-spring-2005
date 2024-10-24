@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on challengesin applying passive UHF
   RFID in paper industry, omnidirectional Tag, omnidirectional C-Tag, cardboard Reels.
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/3f9bf0e81ac9c56441e19fc3bdacadb4_leenaukkonen.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/3f9bf0e81ac9c56441e19fc3bdacadb4_leenaukkonen.pdf
 file_size: 1361002
 file_type: application/pdf
 learning_resource_types:
