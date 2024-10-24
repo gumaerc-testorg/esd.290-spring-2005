@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The resource contains information on evolution to EPCglobal, UCC and
   EAN, GS1: a diversified portfolio.'
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/060a50539c55fd852582f0ac63844a3e_berniehogan.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/060a50539c55fd852582f0ac63844a3e_berniehogan.pdf
 file_size: 482008
 file_type: application/pdf
 learning_resource_types:
