@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information on costing RFID tag manufacturing,
   capacity and volume: some editorial comments, understanding passive RFID devices,
   understanding the manufacturing process and the simulation model.'
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/e8b0e1e199168470e7080a4bec6592e7_lect12.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/e8b0e1e199168470e7080a4bec6592e7_lect12.pdf
 file_size: 429152
 file_type: application/pdf
 learning_resource_types:

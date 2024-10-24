@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the history, opportunities in retail
   and pharma, protocols, security and supply chain plan.
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/2c3787a703110c4eecafede596e75ba1_sanjaysarma.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/2c3787a703110c4eecafede596e75ba1_sanjaysarma.pdf
 file_size: 1445045
 file_type: application/pdf
 learning_resource_types:
