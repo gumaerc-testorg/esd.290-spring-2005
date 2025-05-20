@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/bc616577b95c5bc1abc0e501b14de69c_IXddoba3uQ4.vtt
+file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/bc616577b95c5bc1abc0e501b14de69c_IXddoba3uQ4.vtt
 file_size: 79719
 file_type: application/x-subrip
 learning_resource_types: []
