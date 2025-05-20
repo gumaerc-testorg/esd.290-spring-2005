@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains problems on steps required to do an analysis of
   the process and costs of a purchasing experience, creating RFID scenario of choice
   that improves the purchasing experience measured, tag price point and cost model.
-file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/c7dd2e930c3187669bbc438405d6c1f8_assn5.pdf
+file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/c7dd2e930c3187669bbc438405d6c1f8_assn5.pdf
 file_size: 77927
 file_type: application/pdf
 learning_resource_types:

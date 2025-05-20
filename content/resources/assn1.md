@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains questions on formulating a plan for adoption and
   how and why will one handle privacy concerns.
-file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/c9a649035f03d09f63edcbdae44f8c16_assn1.pdf
+file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/c9a649035f03d09f63edcbdae44f8c16_assn1.pdf
 file_size: 18022
 file_type: application/pdf
 learning_resource_types:
