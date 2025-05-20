@@ -4,7 +4,7 @@ description: This resource contains information on results in RFID stores, tagge
   products, issues and opportunities, Gen2, barriers to adoption, transformational,
   true RFID sortation, robust mobile devices, UHF tags for pharma, education, quality
   improvement and testing.
-file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/2d6351a1fb41c9e56e647e4780bb00b9_simonlangford.pdf
+file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/2d6351a1fb41c9e56e647e4780bb00b9_simonlangford.pdf
 file_size: 510618
 file_type: application/pdf
 learning_resource_types:

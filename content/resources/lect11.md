@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the anatomy of an RF tag, the system,
   IC manufacturing, low-cost RFID, and scaling issues.
-file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/761a1aed0b262cde5d22e8d07b3ac192_lect11.pdf
+file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/761a1aed0b262cde5d22e8d07b3ac192_lect11.pdf
 file_size: 320891
 file_type: application/pdf
 learning_resource_types:

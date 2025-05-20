@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on capabilities and needs of a packaging
   supplier.
-file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/d814e2bac135b692c4ab61ca809d84e9_rhspedden.pdf
+file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/d814e2bac135b692c4ab61ca809d84e9_rhspedden.pdf
 file_size: 509007
 file_type: application/pdf
 learning_resource_types:

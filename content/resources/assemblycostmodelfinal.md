@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource helps in calculating the economics of RFID systems.
-file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/7026dd98ffbbe796f481e029f1e2c3b5_AssemblyCostModelFinal.xls
+file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/7026dd98ffbbe796f481e029f1e2c3b5_AssemblyCostModelFinal.xls
 file_size: 96256
 file_type: application/msword
 learning_resource_types:
