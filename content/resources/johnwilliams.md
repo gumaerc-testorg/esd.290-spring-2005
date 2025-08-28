@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resourcde contains information on global network, RFID network.
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/ca1aba3d0b221052405aa30891ef4480_johnwilliams.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/ca1aba3d0b221052405aa30891ef4480_johnwilliams.pdf
 file_size: 1606981
 file_type: application/pdf
 learning_resource_types:
