@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on evolution of RF location sensing,
   applications, localization research at CWINS/WPI.
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/c8138d62710606771147c0512d40c08c_allenleves_rfid.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/c8138d62710606771147c0512d40c08c_allenleves_rfid.pdf
 file_size: 625223
 file_type: application/pdf
 learning_resource_types:
