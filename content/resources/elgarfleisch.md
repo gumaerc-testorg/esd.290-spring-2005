@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on need for secure authentication
   technologies, research questions and anticipated challenges and preliminary results.
-file: /courses/esd-290-special-topics-in-supply-chain-management-spring-2005/77b891bce9ff9ae3dc8daccf2f5a80cb_elgarfleisch.pdf
+file: /ol-ocw-studio-app/courses/esd-290-special-topics-in-supply-chain-management-spring-2005/77b891bce9ff9ae3dc8daccf2f5a80cb_elgarfleisch.pdf
 file_size: 326139
 file_type: application/pdf
 learning_resource_types:
