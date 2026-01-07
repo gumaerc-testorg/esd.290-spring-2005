@@ -45,7 +45,7 @@ Sanjay Sarma, MIT ({{% resource_link 2c3787a7-0311-0c4e-ecaf-ede596e75ba1 "PDF 
 {{< tdopen >}}
 _{{% resource_link 43ec9c0b-94eb-4231-b815-53d5f5891b31 "The Internet of Things: A Quantum Leap Forward" %}}_  
   
-{{% resource_link "5cf888b1-1242-47bb-a770-065cbc4a98ea" "Steve Bratt" %}}, W3C  
+[Steve Bratt](http://www.w3.org/2006/Talks/0123-sb-W3C-ThingsWeb/), W3C  
   
 John Williams, MIT ({{% resource_link ca1aba3d-0b22-1052-405a-a30891ef4480 "PDF - 1.5 MB" %}})  
   
